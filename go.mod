@@ -1,4 +1,4 @@
-module test
+module github.com/reolat/parallel-test
 
 go 1.15
 
