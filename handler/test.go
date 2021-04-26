@@ -5,7 +5,7 @@ import (
 
 	log "github.com/micro/micro/v3/service/logger"
 
-	test "test/proto"
+	test "github.com/reolat/parallel-test/proto"
 )
 
 type Test struct{}

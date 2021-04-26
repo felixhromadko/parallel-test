@@ -1,8 +1,8 @@
 package main
 
 import (
-	"test/handler"
-	pb "test/proto"
+	"github.com/reolat/parallel-test/handler"
+	pb "github.com/reolat/parallel-test/proto"
 
 	"github.com/micro/micro/v3/service"
 	"github.com/micro/micro/v3/service/logger"
